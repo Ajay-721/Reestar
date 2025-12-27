@@ -1,0 +1,72 @@
+.Heading{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+
+   
+}
+.Heading1{
+    color:grey ;
+}
+.Heading1:hover{
+    color: white;
+    cursor: pointer;
+}
+.foods{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    width: 220px;
+    height: 350px;
+     margin-top: 30px;
+    display: inline-block;
+}
+
+.foods img{
+width: 180px;
+height: 210px;
+margin-top: 20px;
+}
+
+
+.newOrder{
+    background-color: black;
+    color: white;
+    padding: 10px;
+   
+    cursor: pointer;
+    display: inline;
+   
+}
+.newOrder:hover{
+color: darkkhaki;
+cursor: pointer;
+}
+.Contact{
+    background-color: black;
+    color:white;
+  
+    padding: 80px;
+    padding-top: 10px;
+ ;
+   margin-top: 10px;
+   
+   
+}
+.send{
+    background-color: yellow;
+    color:black;
+    width: 400px;
+    cursor: pointer;
+}
+
+
+   
+   
+    
+
+
+
+
+
